@@ -1,0 +1,12 @@
+Correcciones sobre la primera entrega
+
+- Bibliografía incorrecta
+- No hay diagrama de recursos
+- Existe una tarea sin referencia en el gantt
+
+Nota del proyecto 10
+
+Saura 12
+Couto 9
+Silva 7
+Riveiro 9  
